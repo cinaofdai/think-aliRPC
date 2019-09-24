@@ -1,10 +1,10 @@
 {
-    "name": "dh2y/think-aliRPC",
+    "name": "dh2y/think-ali-rpc",
     "description": "Alibaba RPC for thinkphp5",
     "homepage": "https://github.com/cinaofdai/think-aliRPC",
     "license": "MIT",
     "minimum-stability": "stable",
-    "version": "2.1",
+    "version": "2.1.1",
     "authors": [
         {
             "name": "dh2y",
